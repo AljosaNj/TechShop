@@ -96,3 +96,5 @@ const FeaturedProducts = ({ featuredProducts }) => {
 	);
 };
 export default FeaturedProducts;
+
+/* feat */
