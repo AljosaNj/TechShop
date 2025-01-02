@@ -50,7 +50,3 @@ const HomePage = () => {
 export default HomePage
 
 
-/**
- 
-  {!isLoading && products.length > 0 && <FeaturedProducts featuredProducts={products} />}
- */
